@@ -1,12 +1,14 @@
 #This project is a search engine crawler project.
 
+#Created application can search on 4 search engines for your keywords. You can manage application by editing properties file.
+
 #The app.properties and logging.properties files and JavaSE-1.8 are required for the project to run.
 
-#In order for the project to read and work keywords, yildiz_category_map.txt and keywords.txt files are needed. These files should be under the resource folder.
+#In order for the project to read and work keywords, keywords.txt files are needed. This file should be under the resource folder.
 
 #When the project is turned into a jar, there must be a folder named resources in the directory where the jar is located.
 
-#The app.properties and logging.properties files must be in the Resources folder.
+#The app.properties and logging.properties files must be in the Resources folder. In app.properties file you can disable or enable spesific search engine, live logging on console, max result per search on engines or you can set sleep time to not act like robots. And via logging.properties file you can manage logging options.   
 
 #The Resources folder must also contain the chromedriver_win32 folder.
 
