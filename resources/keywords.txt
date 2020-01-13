@@ -1,0 +1,2 @@
+abdurrahman yıldız,TURKISH,Name
+computer engineer abdurrahman yıldız,TURKISH,NameAndJob
