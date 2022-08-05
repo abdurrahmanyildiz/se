@@ -22,7 +22,7 @@ Similarly, the chromedriver_win32 folder should contain Firefox webdriver.
 
 If chrome / firefox binary error is received on the machine where the application will run, chrome / firefox application must be installed on the machine.
 
-In case of error in creating the log file in case of running the application, logs folder is created at the same level as the jar file.
+In case of getting error during creating the log file when running the application, logs folder is created at the same level as the jar file.
 
 Within this folder 2 files with the names log0.log and log0.log.lck must be created.
 
